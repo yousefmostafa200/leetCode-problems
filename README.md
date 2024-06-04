@@ -5,4 +5,17 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # String
 |  |
 | ------- |
+| [2427-first-letter-to-appear-twice](https://github.com/yousefmostafa200/leetCode-problems/tree/master/2427-first-letter-to-appear-twice) |
 | [3379-score-of-a-string](https://github.com/yousefmostafa200/leetCode-problems/tree/master/3379-score-of-a-string) |
+# Hash Table
+|  |
+| ------- |
+| [2427-first-letter-to-appear-twice](https://github.com/yousefmostafa200/leetCode-problems/tree/master/2427-first-letter-to-appear-twice) |
+# Bit Manipulation
+|  |
+| ------- |
+| [2427-first-letter-to-appear-twice](https://github.com/yousefmostafa200/leetCode-problems/tree/master/2427-first-letter-to-appear-twice) |
+# Counting
+|  |
+| ------- |
+| [2427-first-letter-to-appear-twice](https://github.com/yousefmostafa200/leetCode-problems/tree/master/2427-first-letter-to-appear-twice) |
