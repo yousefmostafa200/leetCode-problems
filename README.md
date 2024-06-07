@@ -24,10 +24,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0027-remove-element) |
 | [1019-squares-of-a-sorted-array](https://github.com/yousefmostafa200/leetCode-problems/tree/master/1019-squares-of-a-sorted-array) |
 # Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0027-remove-element) |
 | [1019-squares-of-a-sorted-array](https://github.com/yousefmostafa200/leetCode-problems/tree/master/1019-squares-of-a-sorted-array) |
 # Sorting
 |  |
