@@ -27,12 +27,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0027-remove-element) |
 | [1019-squares-of-a-sorted-array](https://github.com/yousefmostafa200/leetCode-problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1044-find-common-characters](https://github.com/yousefmostafa200/leetCode-problems/tree/master/1044-find-common-characters) |
 # Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0125-valid-palindrome) |
 | [1019-squares-of-a-sorted-array](https://github.com/yousefmostafa200/leetCode-problems/tree/master/1019-squares-of-a-sorted-array) |
