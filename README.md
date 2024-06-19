@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1044-find-common-characters](https://github.com/yousefmostafa200/leetCode-problems/tree/master/1044-find-common-characters) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/yousefmostafa200/leetCode-problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2427-first-letter-to-appear-twice](https://github.com/yousefmostafa200/leetCode-problems/tree/master/2427-first-letter-to-appear-twice) |
+| [3194-find-words-containing-character](https://github.com/yousefmostafa200/leetCode-problems/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/yousefmostafa200/leetCode-problems/tree/master/3379-score-of-a-string) |
 # Hash Table
 |  |
@@ -37,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1019-squares-of-a-sorted-array](https://github.com/yousefmostafa200/leetCode-problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1044-find-common-characters](https://github.com/yousefmostafa200/leetCode-problems/tree/master/1044-find-common-characters) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/yousefmostafa200/leetCode-problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [3194-find-words-containing-character](https://github.com/yousefmostafa200/leetCode-problems/tree/master/3194-find-words-containing-character) |
 # Two Pointers
 |  |
 | ------- |
