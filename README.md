@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0013-roman-to-integer) |
 | [0782-jewels-and-stones](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0782-jewels-and-stones) |
 | [1044-find-common-characters](https://github.com/yousefmostafa200/leetCode-problems/tree/master/1044-find-common-characters) |
+| [1635-number-of-good-pairs](https://github.com/yousefmostafa200/leetCode-problems/tree/master/1635-number-of-good-pairs) |
 | [2427-first-letter-to-appear-twice](https://github.com/yousefmostafa200/leetCode-problems/tree/master/2427-first-letter-to-appear-twice) |
 # Bit Manipulation
 |  |
@@ -28,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Counting
 |  |
 | ------- |
+| [1635-number-of-good-pairs](https://github.com/yousefmostafa200/leetCode-problems/tree/master/1635-number-of-good-pairs) |
 | [2427-first-letter-to-appear-twice](https://github.com/yousefmostafa200/leetCode-problems/tree/master/2427-first-letter-to-appear-twice) |
 # Array
 |  |
@@ -37,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0136-single-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/yousefmostafa200/leetCode-problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1044-find-common-characters](https://github.com/yousefmostafa200/leetCode-problems/tree/master/1044-find-common-characters) |
+| [1635-number-of-good-pairs](https://github.com/yousefmostafa200/leetCode-problems/tree/master/1635-number-of-good-pairs) |
 | [2058-concatenation-of-array](https://github.com/yousefmostafa200/leetCode-problems/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/yousefmostafa200/leetCode-problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3194-find-words-containing-character](https://github.com/yousefmostafa200/leetCode-problems/tree/master/3194-find-words-containing-character) |
@@ -56,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0009-palindrome-number](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0013-roman-to-integer) |
+| [1635-number-of-good-pairs](https://github.com/yousefmostafa200/leetCode-problems/tree/master/1635-number-of-good-pairs) |
 # Simulation
 |  |
 | ------- |
