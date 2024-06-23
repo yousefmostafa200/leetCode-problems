@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0013-roman-to-integer) |
+| [0202-happy-number](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0202-happy-number) |
 | [0782-jewels-and-stones](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0782-jewels-and-stones) |
 | [1044-find-common-characters](https://github.com/yousefmostafa200/leetCode-problems/tree/master/1044-find-common-characters) |
 | [1635-number-of-good-pairs](https://github.com/yousefmostafa200/leetCode-problems/tree/master/1635-number-of-good-pairs) |
@@ -50,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0125-valid-palindrome) |
+| [0202-happy-number](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0202-happy-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/yousefmostafa200/leetCode-problems/tree/master/1019-squares-of-a-sorted-array) |
 # Sorting
 |  |
@@ -60,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0009-palindrome-number](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0013-roman-to-integer) |
+| [0202-happy-number](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0202-happy-number) |
 | [1635-number-of-good-pairs](https://github.com/yousefmostafa200/leetCode-problems/tree/master/1635-number-of-good-pairs) |
 # Simulation
 |  |
