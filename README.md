@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0125-valid-palindrome) |
 | [0782-jewels-and-stones](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0782-jewels-and-stones) |
 | [1044-find-common-characters](https://github.com/yousefmostafa200/leetCode-problems/tree/master/1044-find-common-characters) |
+| [1205-defanging-an-ip-address](https://github.com/yousefmostafa200/leetCode-problems/tree/master/1205-defanging-an-ip-address) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/yousefmostafa200/leetCode-problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2427-first-letter-to-appear-twice](https://github.com/yousefmostafa200/leetCode-problems/tree/master/2427-first-letter-to-appear-twice) |
 | [3194-find-words-containing-character](https://github.com/yousefmostafa200/leetCode-problems/tree/master/3194-find-words-containing-character) |
