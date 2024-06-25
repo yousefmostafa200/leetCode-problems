@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0013-roman-to-integer](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0125-valid-palindrome) |
+| [0290-word-pattern](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0290-word-pattern) |
 | [0782-jewels-and-stones](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0782-jewels-and-stones) |
 | [1044-find-common-characters](https://github.com/yousefmostafa200/leetCode-problems/tree/master/1044-find-common-characters) |
 | [1205-defanging-an-ip-address](https://github.com/yousefmostafa200/leetCode-problems/tree/master/1205-defanging-an-ip-address) |
@@ -19,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0013-roman-to-integer](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0202-happy-number) |
+| [0290-word-pattern](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0290-word-pattern) |
 | [0782-jewels-and-stones](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0782-jewels-and-stones) |
 | [1044-find-common-characters](https://github.com/yousefmostafa200/leetCode-problems/tree/master/1044-find-common-characters) |
 | [1635-number-of-good-pairs](https://github.com/yousefmostafa200/leetCode-problems/tree/master/1635-number-of-good-pairs) |
