@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0290-word-pattern](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0290-word-pattern) |
 | [0782-jewels-and-stones](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0782-jewels-and-stones) |
 | [1044-find-common-characters](https://github.com/yousefmostafa200/leetCode-problems/tree/master/1044-find-common-characters) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/yousefmostafa200/leetCode-problems/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1635-number-of-good-pairs](https://github.com/yousefmostafa200/leetCode-problems/tree/master/1635-number-of-good-pairs) |
 | [2427-first-letter-to-appear-twice](https://github.com/yousefmostafa200/leetCode-problems/tree/master/2427-first-letter-to-appear-twice) |
 # Bit Manipulation
@@ -44,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0283-move-zeroes) |
 | [1019-squares-of-a-sorted-array](https://github.com/yousefmostafa200/leetCode-problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1044-find-common-characters](https://github.com/yousefmostafa200/leetCode-problems/tree/master/1044-find-common-characters) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/yousefmostafa200/leetCode-problems/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1580-shuffle-the-array](https://github.com/yousefmostafa200/leetCode-problems/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/yousefmostafa200/leetCode-problems/tree/master/1635-number-of-good-pairs) |
 | [2058-concatenation-of-array](https://github.com/yousefmostafa200/leetCode-problems/tree/master/2058-concatenation-of-array) |
