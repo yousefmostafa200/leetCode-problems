@@ -82,4 +82,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0058-length-of-last-word) |
+| [0151-reverse-words-in-a-string](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0151-reverse-words-in-a-string) |
+## Two Pointers
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->
