@@ -93,4 +93,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Array
+|  |
+| ------- |
+| [1293-three-consecutive-odds](https://github.com/yousefmostafa200/leetCode-problems/tree/master/1293-three-consecutive-odds) |
 <!---LeetCode Topics End-->
