@@ -125,4 +125,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/yousefmostafa200/leetCode-problems/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+## Math
+|  |
+| ------- |
+| [2812-find-the-maximum-achievable-number](https://github.com/yousefmostafa200/leetCode-problems/tree/master/2812-find-the-maximum-achievable-number) |
 <!---LeetCode Topics End-->
