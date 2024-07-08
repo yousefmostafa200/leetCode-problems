@@ -8,8 +8,6 @@ var findPermutationDifference = function(s, t) {
 
     for(let i =0 ; i< s.length ; i++){
         difference  += Math.abs(s.indexOf(s[i]) - t.indexOf(s[i]))
-
-       
     }
 
     return difference
