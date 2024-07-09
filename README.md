@@ -130,5 +130,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0231-power-of-two) |
 | [2812-find-the-maximum-achievable-number](https://github.com/yousefmostafa200/leetCode-problems/tree/master/2812-find-the-maximum-achievable-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
