@@ -101,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0066-plus-one) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0792-binary-search](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0792-binary-search) |
 | [1293-three-consecutive-odds](https://github.com/yousefmostafa200/leetCode-problems/tree/master/1293-three-consecutive-odds) |
@@ -134,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0342-power-of-four) |
