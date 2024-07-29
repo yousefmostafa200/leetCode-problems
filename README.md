@@ -107,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0011-container-with-most-water](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0066-plus-one) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0792-binary-search](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0792-binary-search) |
@@ -183,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0053-maximum-subarray) |
 | [0948-sort-an-array](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -204,4 +206,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0948-sort-an-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
