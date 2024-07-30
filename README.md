@@ -122,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2502-sort-the-people](https://github.com/yousefmostafa200/leetCode-problems/tree/master/2502-sort-the-people) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/yousefmostafa200/leetCode-problems/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/yousefmostafa200/leetCode-problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/yousefmostafa200/leetCode-problems/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Hash Table
 |  |
 | ------- |
@@ -163,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/yousefmostafa200/leetCode-problems/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [2556-convert-the-temperature](https://github.com/yousefmostafa200/leetCode-problems/tree/master/2556-convert-the-temperature) |
 | [2812-find-the-maximum-achievable-number](https://github.com/yousefmostafa200/leetCode-problems/tree/master/2812-find-the-maximum-achievable-number) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/yousefmostafa200/leetCode-problems/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Bit Manipulation
 |  |
 | ------- |
