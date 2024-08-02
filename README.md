@@ -109,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0066-plus-one) |
+| [0238-product-of-array-except-self](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0238-product-of-array-except-self) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0792-binary-search](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0792-binary-search) |
 | [0948-sort-an-array](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0948-sort-an-array) |
@@ -219,4 +220,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2491-smallest-even-multiple](https://github.com/yousefmostafa200/leetCode-problems/tree/master/2491-smallest-even-multiple) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
