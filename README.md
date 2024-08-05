@@ -86,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0151-reverse-words-in-a-string](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0874-backspace-string-compare](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0874-backspace-string-compare) |
 | [1651-shuffle-string](https://github.com/yousefmostafa200/leetCode-problems/tree/master/1651-shuffle-string) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/yousefmostafa200/leetCode-problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/yousefmostafa200/leetCode-problems/tree/master/2502-sort-the-people) |
 | [3412-permutation-difference-between-two-strings](https://github.com/yousefmostafa200/leetCode-problems/tree/master/3412-permutation-difference-between-two-strings) |
 ## Two Pointers
@@ -120,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/yousefmostafa200/leetCode-problems/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1651-shuffle-string](https://github.com/yousefmostafa200/leetCode-problems/tree/master/1651-shuffle-string) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/yousefmostafa200/leetCode-problems/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/yousefmostafa200/leetCode-problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2350-find-closest-number-to-zero](https://github.com/yousefmostafa200/leetCode-problems/tree/master/2350-find-closest-number-to-zero) |
 | [2502-sort-the-people](https://github.com/yousefmostafa200/leetCode-problems/tree/master/2502-sort-the-people) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/yousefmostafa200/leetCode-problems/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
@@ -131,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/yousefmostafa200/leetCode-problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/yousefmostafa200/leetCode-problems/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/yousefmostafa200/leetCode-problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/yousefmostafa200/leetCode-problems/tree/master/2502-sort-the-people) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/yousefmostafa200/leetCode-problems/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [3412-permutation-difference-between-two-strings](https://github.com/yousefmostafa200/leetCode-problems/tree/master/3412-permutation-difference-between-two-strings) |
@@ -215,6 +218,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0948-sort-an-array) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/yousefmostafa200/leetCode-problems/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
