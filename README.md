@@ -115,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0792-binary-search](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0792-binary-search) |
 | [0948-sort-an-array](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0948-sort-an-array) |
 | [1293-three-consecutive-odds](https://github.com/yousefmostafa200/leetCode-problems/tree/master/1293-three-consecutive-odds) |
+| [1319-unique-number-of-occurrences](https://github.com/yousefmostafa200/leetCode-problems/tree/master/1319-unique-number-of-occurrences) |
 | [1333-sort-the-jumbled-numbers](https://github.com/yousefmostafa200/leetCode-problems/tree/master/1333-sort-the-jumbled-numbers) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/yousefmostafa200/leetCode-problems/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/yousefmostafa200/leetCode-problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -131,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1319-unique-number-of-occurrences](https://github.com/yousefmostafa200/leetCode-problems/tree/master/1319-unique-number-of-occurrences) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/yousefmostafa200/leetCode-problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/yousefmostafa200/leetCode-problems/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/yousefmostafa200/leetCode-problems/tree/master/2163-kth-distinct-string-in-an-array) |
