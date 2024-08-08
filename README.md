@@ -87,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0874-backspace-string-compare](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0874-backspace-string-compare) |
 | [1651-shuffle-string](https://github.com/yousefmostafa200/leetCode-problems/tree/master/1651-shuffle-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/yousefmostafa200/leetCode-problems/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/yousefmostafa200/leetCode-problems/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2502-sort-the-people](https://github.com/yousefmostafa200/leetCode-problems/tree/master/2502-sort-the-people) |
 | [3412-permutation-difference-between-two-strings](https://github.com/yousefmostafa200/leetCode-problems/tree/master/3412-permutation-difference-between-two-strings) |
 ## Two Pointers
@@ -97,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0151-reverse-words-in-a-string](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0874-backspace-string-compare](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0874-backspace-string-compare) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/yousefmostafa200/leetCode-problems/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/yousefmostafa200/leetCode-problems/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/yousefmostafa200/leetCode-problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## String Matching
@@ -123,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1651-shuffle-string](https://github.com/yousefmostafa200/leetCode-problems/tree/master/1651-shuffle-string) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/yousefmostafa200/leetCode-problems/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/yousefmostafa200/leetCode-problems/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/yousefmostafa200/leetCode-problems/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2350-find-closest-number-to-zero](https://github.com/yousefmostafa200/leetCode-problems/tree/master/2350-find-closest-number-to-zero) |
 | [2502-sort-the-people](https://github.com/yousefmostafa200/leetCode-problems/tree/master/2502-sort-the-people) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/yousefmostafa200/leetCode-problems/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
