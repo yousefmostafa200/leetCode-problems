@@ -17,5 +17,6 @@ var interpret = function(command) {
     //      }
     // }
     // return result
-    return command.split('()').join('o').split('(al)').join('al')
+    // return command.split('()').join('o').split('(al)').join('al')
+    return command.replaceAll("()","o").replaceAll("(al)","al")
 };
