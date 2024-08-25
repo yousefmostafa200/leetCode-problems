@@ -87,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0151-reverse-words-in-a-string](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0874-backspace-string-compare](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0874-backspace-string-compare) |
 | [1651-shuffle-string](https://github.com/yousefmostafa200/leetCode-problems/tree/master/1651-shuffle-string) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/yousefmostafa200/leetCode-problems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1797-goal-parser-interpretation](https://github.com/yousefmostafa200/leetCode-problems/tree/master/1797-goal-parser-interpretation) |
 | [1944-truncate-sentence](https://github.com/yousefmostafa200/leetCode-problems/tree/master/1944-truncate-sentence) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/yousefmostafa200/leetCode-problems/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -128,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/yousefmostafa200/leetCode-problems/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1651-shuffle-string](https://github.com/yousefmostafa200/leetCode-problems/tree/master/1651-shuffle-string) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/yousefmostafa200/leetCode-problems/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/yousefmostafa200/leetCode-problems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1944-truncate-sentence](https://github.com/yousefmostafa200/leetCode-problems/tree/master/1944-truncate-sentence) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/yousefmostafa200/leetCode-problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/yousefmostafa200/leetCode-problems/tree/master/2210-find-target-indices-after-sorting-array) |
