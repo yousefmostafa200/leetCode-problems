@@ -93,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2163-kth-distinct-string-in-an-array](https://github.com/yousefmostafa200/leetCode-problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/yousefmostafa200/leetCode-problems/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2502-sort-the-people](https://github.com/yousefmostafa200/leetCode-problems/tree/master/2502-sort-the-people) |
+| [3396-valid-word](https://github.com/yousefmostafa200/leetCode-problems/tree/master/3396-valid-word) |
 | [3412-permutation-difference-between-two-strings](https://github.com/yousefmostafa200/leetCode-problems/tree/master/3412-permutation-difference-between-two-strings) |
 ## Two Pointers
 |  |
