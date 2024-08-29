@@ -86,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0058-length-of-last-word](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0874-backspace-string-compare](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0874-backspace-string-compare) |
+| [1260-day-of-the-year](https://github.com/yousefmostafa200/leetCode-problems/tree/master/1260-day-of-the-year) |
 | [1651-shuffle-string](https://github.com/yousefmostafa200/leetCode-problems/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/yousefmostafa200/leetCode-problems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1797-goal-parser-interpretation](https://github.com/yousefmostafa200/leetCode-problems/tree/master/1797-goal-parser-interpretation) |
@@ -192,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0342-power-of-four) |
+| [1260-day-of-the-year](https://github.com/yousefmostafa200/leetCode-problems/tree/master/1260-day-of-the-year) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/yousefmostafa200/leetCode-problems/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [2383-add-two-integers](https://github.com/yousefmostafa200/leetCode-problems/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/yousefmostafa200/leetCode-problems/tree/master/2491-smallest-even-multiple) |
