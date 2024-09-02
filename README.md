@@ -85,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0151-reverse-words-in-a-string) |
+| [0415-add-strings](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0415-add-strings) |
 | [0874-backspace-string-compare](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0874-backspace-string-compare) |
 | [1260-day-of-the-year](https://github.com/yousefmostafa200/leetCode-problems/tree/master/1260-day-of-the-year) |
 | [1274-number-of-days-between-two-dates](https://github.com/yousefmostafa200/leetCode-problems/tree/master/1274-number-of-days-between-two-dates) |
@@ -196,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0342-power-of-four) |
+| [0415-add-strings](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0415-add-strings) |
 | [1260-day-of-the-year](https://github.com/yousefmostafa200/leetCode-problems/tree/master/1260-day-of-the-year) |
 | [1274-number-of-days-between-two-dates](https://github.com/yousefmostafa200/leetCode-problems/tree/master/1274-number-of-days-between-two-dates) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/yousefmostafa200/leetCode-problems/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -225,6 +227,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0415-add-strings) |
 | [0874-backspace-string-compare](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0874-backspace-string-compare) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/yousefmostafa200/leetCode-problems/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Divide and Conquer
