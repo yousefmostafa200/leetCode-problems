@@ -94,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/yousefmostafa200/leetCode-problems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1797-goal-parser-interpretation](https://github.com/yousefmostafa200/leetCode-problems/tree/master/1797-goal-parser-interpretation) |
 | [1944-truncate-sentence](https://github.com/yousefmostafa200/leetCode-problems/tree/master/1944-truncate-sentence) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/yousefmostafa200/leetCode-problems/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/yousefmostafa200/leetCode-problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/yousefmostafa200/leetCode-problems/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2502-sort-the-people](https://github.com/yousefmostafa200/leetCode-problems/tree/master/2502-sort-the-people) |
@@ -229,6 +230,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0415-add-strings](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0415-add-strings) |
 | [0874-backspace-string-compare](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0874-backspace-string-compare) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/yousefmostafa200/leetCode-problems/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/yousefmostafa200/leetCode-problems/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Divide and Conquer
 |  |
