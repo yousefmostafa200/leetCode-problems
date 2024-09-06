@@ -189,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0011-container-with-most-water](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0011-container-with-most-water) |
 | [0890-lemonade-change](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0890-lemonade-change) |
+| [1448-maximum-69-number](https://github.com/yousefmostafa200/leetCode-problems/tree/master/1448-maximum-69-number) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/yousefmostafa200/leetCode-problems/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 ## Math
 |  |
@@ -203,6 +204,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1260-day-of-the-year](https://github.com/yousefmostafa200/leetCode-problems/tree/master/1260-day-of-the-year) |
 | [1274-number-of-days-between-two-dates](https://github.com/yousefmostafa200/leetCode-problems/tree/master/1274-number-of-days-between-two-dates) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/yousefmostafa200/leetCode-problems/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1448-maximum-69-number](https://github.com/yousefmostafa200/leetCode-problems/tree/master/1448-maximum-69-number) |
 | [2383-add-two-integers](https://github.com/yousefmostafa200/leetCode-problems/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/yousefmostafa200/leetCode-problems/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/yousefmostafa200/leetCode-problems/tree/master/2556-convert-the-temperature) |
