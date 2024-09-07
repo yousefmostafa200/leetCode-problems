@@ -108,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0151-reverse-words-in-a-string](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0874-backspace-string-compare](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0874-backspace-string-compare) |
+| [1168-duplicate-zeros](https://github.com/yousefmostafa200/leetCode-problems/tree/master/1168-duplicate-zeros) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/yousefmostafa200/leetCode-problems/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/yousefmostafa200/leetCode-problems/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/yousefmostafa200/leetCode-problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -127,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0792-binary-search](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0890-lemonade-change) |
 | [0948-sort-an-array](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0948-sort-an-array) |
+| [1168-duplicate-zeros](https://github.com/yousefmostafa200/leetCode-problems/tree/master/1168-duplicate-zeros) |
 | [1256-rank-transform-of-an-array](https://github.com/yousefmostafa200/leetCode-problems/tree/master/1256-rank-transform-of-an-array) |
 | [1293-three-consecutive-odds](https://github.com/yousefmostafa200/leetCode-problems/tree/master/1293-three-consecutive-odds) |
 | [1319-unique-number-of-occurrences](https://github.com/yousefmostafa200/leetCode-problems/tree/master/1319-unique-number-of-occurrences) |
