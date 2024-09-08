@@ -94,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/yousefmostafa200/leetCode-problems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1797-goal-parser-interpretation](https://github.com/yousefmostafa200/leetCode-problems/tree/master/1797-goal-parser-interpretation) |
 | [1944-truncate-sentence](https://github.com/yousefmostafa200/leetCode-problems/tree/master/1944-truncate-sentence) |
+| [1970-sorting-the-sentence](https://github.com/yousefmostafa200/leetCode-problems/tree/master/1970-sorting-the-sentence) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/yousefmostafa200/leetCode-problems/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/yousefmostafa200/leetCode-problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/yousefmostafa200/leetCode-problems/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -182,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/yousefmostafa200/leetCode-problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/yousefmostafa200/leetCode-problems/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/yousefmostafa200/leetCode-problems/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1970-sorting-the-sentence](https://github.com/yousefmostafa200/leetCode-problems/tree/master/1970-sorting-the-sentence) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/yousefmostafa200/leetCode-problems/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2502-sort-the-people](https://github.com/yousefmostafa200/leetCode-problems/tree/master/2502-sort-the-people) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/yousefmostafa200/leetCode-problems/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
