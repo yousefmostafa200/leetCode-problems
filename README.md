@@ -223,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0342-power-of-four) |
@@ -251,6 +252,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0053-maximum-subarray) |
+| [0191-number-of-1-bits](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0191-number-of-1-bits) |
 | [0948-sort-an-array](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
