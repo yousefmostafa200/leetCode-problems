@@ -137,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1319-unique-number-of-occurrences](https://github.com/yousefmostafa200/leetCode-problems/tree/master/1319-unique-number-of-occurrences) |
 | [1333-sort-the-jumbled-numbers](https://github.com/yousefmostafa200/leetCode-problems/tree/master/1333-sort-the-jumbled-numbers) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/yousefmostafa200/leetCode-problems/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1435-xor-queries-of-a-subarray](https://github.com/yousefmostafa200/leetCode-problems/tree/master/1435-xor-queries-of-a-subarray) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/yousefmostafa200/leetCode-problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/yousefmostafa200/leetCode-problems/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1651-shuffle-string](https://github.com/yousefmostafa200/leetCode-problems/tree/master/1651-shuffle-string) |
@@ -232,6 +233,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0342-power-of-four](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0342-power-of-four) |
 | [0476-number-complement](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0476-number-complement) |
 | [1054-complement-of-base-10-integer](https://github.com/yousefmostafa200/leetCode-problems/tree/master/1054-complement-of-base-10-integer) |
+| [1435-xor-queries-of-a-subarray](https://github.com/yousefmostafa200/leetCode-problems/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/yousefmostafa200/leetCode-problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2308-divide-array-into-equal-pairs](https://github.com/yousefmostafa200/leetCode-problems/tree/master/2308-divide-array-into-equal-pairs) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/yousefmostafa200/leetCode-problems/tree/master/2323-minimum-bit-flips-to-convert-number) |
@@ -296,6 +298,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0238-product-of-array-except-self) |
+| [1435-xor-queries-of-a-subarray](https://github.com/yousefmostafa200/leetCode-problems/tree/master/1435-xor-queries-of-a-subarray) |
 | [2571-find-the-pivot-integer](https://github.com/yousefmostafa200/leetCode-problems/tree/master/2571-find-the-pivot-integer) |
 ## Sliding Window
 |  |
