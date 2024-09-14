@@ -85,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0012-integer-to-roman](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0012-integer-to-roman) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0415-add-strings](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0415-add-strings) |
 | [0874-backspace-string-compare](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0874-backspace-string-compare) |
@@ -208,6 +209,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0012-integer-to-roman](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0012-integer-to-roman) |
 | [0066-plus-one](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0326-power-of-three) |
@@ -227,6 +229,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0067-add-binary) |
 | [0191-number-of-1-bits](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0338-counting-bits) |
@@ -251,6 +254,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0415-add-strings) |
 | [0874-backspace-string-compare](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0874-backspace-string-compare) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/yousefmostafa200/leetCode-problems/tree/master/2076-sum-of-digits-of-string-after-convert) |
