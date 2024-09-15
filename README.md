@@ -87,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0058-length-of-last-word](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0151-reverse-words-in-a-string) |
+| [0389-find-the-difference](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0389-find-the-difference) |
 | [0415-add-strings](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0415-add-strings) |
 | [0874-backspace-string-compare](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0874-backspace-string-compare) |
 | [1260-day-of-the-year](https://github.com/yousefmostafa200/leetCode-problems/tree/master/1260-day-of-the-year) |
@@ -163,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0012-integer-to-roman) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0389-find-the-difference) |
 | [1256-rank-transform-of-an-array](https://github.com/yousefmostafa200/leetCode-problems/tree/master/1256-rank-transform-of-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/yousefmostafa200/leetCode-problems/tree/master/1319-unique-number-of-occurrences) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/yousefmostafa200/leetCode-problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -186,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0389-find-the-difference) |
 | [0948-sort-an-array](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0948-sort-an-array) |
 | [1256-rank-transform-of-an-array](https://github.com/yousefmostafa200/leetCode-problems/tree/master/1256-rank-transform-of-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/yousefmostafa200/leetCode-problems/tree/master/1333-sort-the-jumbled-numbers) |
@@ -234,6 +237,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0389-find-the-difference) |
 | [0476-number-complement](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0476-number-complement) |
 | [1054-complement-of-base-10-integer](https://github.com/yousefmostafa200/leetCode-problems/tree/master/1054-complement-of-base-10-integer) |
 | [1435-xor-queries-of-a-subarray](https://github.com/yousefmostafa200/leetCode-problems/tree/master/1435-xor-queries-of-a-subarray) |
