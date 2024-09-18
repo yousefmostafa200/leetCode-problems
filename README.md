@@ -87,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0058-length-of-last-word](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0151-reverse-words-in-a-string) |
+| [0179-largest-number](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0179-largest-number) |
 | [0389-find-the-difference](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0389-find-the-difference) |
 | [0415-add-strings](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0415-add-strings) |
 | [0874-backspace-string-compare](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0874-backspace-string-compare) |
@@ -129,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0066-plus-one) |
+| [0179-largest-number](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0179-largest-number) |
 | [0238-product-of-array-except-self](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0238-product-of-array-except-self) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0792-binary-search](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0792-binary-search) |
@@ -190,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0179-largest-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0389-find-the-difference) |
 | [0948-sort-an-array](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0948-sort-an-array) |
@@ -207,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0011-container-with-most-water) |
+| [0179-largest-number](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0179-largest-number) |
 | [0890-lemonade-change](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0890-lemonade-change) |
 | [1448-maximum-69-number](https://github.com/yousefmostafa200/leetCode-problems/tree/master/1448-maximum-69-number) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/yousefmostafa200/leetCode-problems/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
