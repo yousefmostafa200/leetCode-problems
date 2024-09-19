@@ -130,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0066-plus-one) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0179-largest-number](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0179-largest-number) |
 | [0238-product-of-array-except-self](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0238-product-of-array-except-self) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -304,6 +305,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0338-counting-bits) |
 | [1013-fibonacci-number](https://github.com/yousefmostafa200/leetCode-problems/tree/master/1013-fibonacci-number) |
 ## Number Theory
