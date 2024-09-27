@@ -90,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0179-largest-number](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0179-largest-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0415-add-strings) |
 | [0874-backspace-string-compare](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0874-backspace-string-compare) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -118,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0151-reverse-words-in-a-string](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0392-is-subsequence) |
 | [0874-backspace-string-compare](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0874-backspace-string-compare) |
 | [1168-duplicate-zeros](https://github.com/yousefmostafa200/leetCode-problems/tree/master/1168-duplicate-zeros) |
 | [1894-merge-strings-alternately](https://github.com/yousefmostafa200/leetCode-problems/tree/master/1894-merge-strings-alternately) |
@@ -315,6 +317,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0392-is-subsequence) |
 | [1013-fibonacci-number](https://github.com/yousefmostafa200/leetCode-problems/tree/master/1013-fibonacci-number) |
 ## Number Theory
 |  |
