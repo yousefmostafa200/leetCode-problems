@@ -264,6 +264,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0021-merge-two-sorted-lists) |
+| [0203-remove-linked-list-elements](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0326-power-of-three) |
@@ -358,5 +359,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0203-remove-linked-list-elements](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
