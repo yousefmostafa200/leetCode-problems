@@ -11,8 +11,8 @@
  * @return {ListNode}
  */
 var removeElements = function (head, val) {
-    let tempHead = head, prev
-    
+    let tempHead = head
+    let prev = null
     while (tempHead) {
         if (tempHead.val === val) {
             // when head is present at 0th index
