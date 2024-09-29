@@ -92,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0389-find-the-difference](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0415-add-strings) |
+| [0742-to-lower-case](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0742-to-lower-case) |
 | [0874-backspace-string-compare](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0874-backspace-string-compare) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/yousefmostafa200/leetCode-problems/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/yousefmostafa200/leetCode-problems/tree/master/1146-greatest-common-divisor-of-strings) |
